@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UMMedia</string>
+    <string name="picture">Picture</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="install_package">Install Package</string>
+    <string name="internal_path">Install Package</string>
+    <string name="local_storage">Local Storage</string>
+    <string name="network_sharing">Network Sharing</string>
 </resources>
