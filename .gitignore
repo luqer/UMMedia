@@ -3,3 +3,5 @@ UMMedia/local.properties
 UMMedia/.gradle/
 UMMedia/.idea/
 UMMedia/UMMedia.iml
+UMMedia/gradle.properties
+UMMedia/build/
